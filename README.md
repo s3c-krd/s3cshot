@@ -36,7 +36,7 @@ pip install playwright flask
 
 # Install browser binaries for Playwright
 playwright install
-
+```
 
 ## 🕹️ Usage
 
@@ -45,20 +45,20 @@ Screenshot multiple sites:
 
 ```bash
 python s3cshot.py amazon.com apple.com twitter.com
-
+```
 ### 📄 From a File  
 Capture screenshots from a file (`urls.txt` with one URL per line):
 
 ```bash
 python s3cshot.py -f urls.txt
-
+```
 ### 📁 Custom Output Folder  
 Save screenshots in a specific folder:
 
 ```bash
 python s3cshot.py amazon.com -o results/
 
-
+```
 ### 🖼️ Launch with Gallery UI
 Take screenshots and instantly launch a modern zoomable gallery:
 
