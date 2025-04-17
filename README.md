@@ -64,6 +64,3 @@ Take screenshots and instantly launch a modern zoomable gallery:
 
 ```bash
 python s3cshot.py -f urls.txt -u
-
-
-
