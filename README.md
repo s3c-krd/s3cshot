@@ -28,7 +28,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/s3cshot.git
+git clone https://github.com/s3c-krd/s3cshot.git
 cd s3cshot
 
 # Install dependencies
